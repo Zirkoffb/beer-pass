@@ -1,0 +1,6 @@
+
+{
+  "name": "Beer Pass",
+  "description": "An application to discover and check-in at nearby bars, built with React and Tailwind CSS.",
+  "requestFramePermissions": []
+}
